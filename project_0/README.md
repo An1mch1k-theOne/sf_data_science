@@ -9,14 +9,17 @@
  6. [Выводы](https://github.com/An1mch1k-theOne/sf_data_science/tree/main/project_0#Выводы)
 
 ### Описание проекта
+
 Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/An1mch1k-theOne/sf_data_science/tree/main/project_0#Оглавление)
 
 ### Какой кейс мы решаем
+
 Нужно написать программу, которая угадывает число за минимальное число попыток.
 
 **Условия соревнования:**
+
 - Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
@@ -31,24 +34,28 @@
 
 
 ### Краткая информация о данных
+
 `. . . .`
 
 :arrow_up:[к оглавлению](https://github.com/An1mch1k-theOne/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Этапы работы над проектом
+
 `. . . .`
 
 :arrow_up:[к оглавлению](https://github.com/An1mch1k-theOne/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Результаты
+
 `. . . .`
 
 :arrow_up:[к оглавлению](https://github.com/An1mch1k-theOne/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Выводы
+
 `. . . .`
 
 :arrow_up:[к оглавлению](https://github.com/An1mch1k-theOne/sf_data_science/tree/main/project_0#Оглавление)
